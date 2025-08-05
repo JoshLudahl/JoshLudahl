@@ -12,3 +12,7 @@
 ![Tools](https://go-skill-icons.vercel.app/api/icons?i=bash,linux,git,docker,aws,kubernetes,gradle,github,gitlab,bitbucket&perline=5)
 
 ---
+
+<a href="https://www.linkedin.com/in/joshludahl/">
+    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a>
+    
