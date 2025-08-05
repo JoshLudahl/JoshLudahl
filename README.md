@@ -9,4 +9,6 @@
 
 ![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=pytest,playwright,jetpackcompose,firebase,android,apple&perline=6)  
 
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=bash,linux,git,docker,gradle&perline=5)
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=bash,linux,git,docker,gradle,github,gitlab,bitbucket&perline=5)
+
+
