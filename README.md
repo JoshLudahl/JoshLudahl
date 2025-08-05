@@ -7,7 +7,7 @@
 ### Languages, Technologies, and Tools I've used:
 ![Languages](https://go-skill-icons.vercel.app/api/icons?i=python,java,kotlin,swift,javascript&perline=5)
 
-![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=pytest,playwright,jetpackcompose,firebase,android,apple&perline=6)  
+![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=pytest,playwright,jetpackcompose,firebase,android&perline=6)  
 
 ![Tools](https://go-skill-icons.vercel.app/api/icons?i=bash,linux,git,docker,aws,kubernetes,gradle,github,gitlab,bitbucket&perline=5)
 
