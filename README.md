@@ -13,5 +13,5 @@
 
 ---
 
-[![LinkedIn](https://github.com/JoshLudahl/JoshLudahl/blob/main/icons8-linkedin-50.png)](https://www.linkedin.com/in/joshludahl/)
+[LinkedIn - Josh Ludahl](https://www.linkedin.com/in/joshludahl/)
 
